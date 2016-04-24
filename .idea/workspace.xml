@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f4e0c6c-2180-4d98-9e92-f793acae182f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/images/phpmailer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/images/phpmailer_mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/wrapping.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/ext/twig/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/ext/twig/config.m4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/ext/twig/config.w32" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/exceptions/unclosed_tag.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/exceptions/undefined_trait.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/array.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/array_call.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/binary.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/bitwise.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/comparison.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/divisibleby.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/dotdot.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/ends_with.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/grouping.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/literals.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/magic_call.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/matches.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/method_call.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/operators_as_variables.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/postfix.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/sameas.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/starts_with.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/strings.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/ternary_operator.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/ternary_operator_noelse.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/ternary_operator_nothen.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/two_word_operators_as_variables.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/unary.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/expressions/unary_precedence.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/abs.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/batch.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/batch_with_empty_fill.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/batch_with_exact_elements.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/batch_with_fill.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/convert_encoding.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/date.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/date_default_format.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/date_default_format_interval.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/date_immutable.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/date_interval.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/date_modify.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/date_namedargs.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/default.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/dynamic_filter.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/escape.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/escape_html_attr.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/escape_non_supported_charset.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/first.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/force_escape.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/format.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/join.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/json_encode.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/last.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/length.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/length_utf8.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/merge.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/nl2br.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/number_format.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/number_format_default.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/replace.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/reverse.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/round.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/slice.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/sort.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/special_chars.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/split.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/trim.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/urlencode.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/attribute.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/block.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/constant.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/cycle.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/date.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/date_namedargs.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/dump.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/dump_array.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/dynamic_function.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/assignment.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/autoescaping.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/expression.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/ignore_missing.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/missing.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/missing_nested.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/sandbox.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/template_instance.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/templates_as_array.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/with_context.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/include/with_variables.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/max.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/min.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/range.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/source.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/special_chars.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/functions/template_from_string.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/macros/default_values.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/macros/nested_calls.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/macros/reserved_variables.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/macros/simple.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/macros/with_filters.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/regression/empty_token.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/regression/issue_1143.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/regression/simple_xml_element.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/regression/strings_like_numbers.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/blocks.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/double_escaping.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/functions.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/literal.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/nested.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/objects.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/raw.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/strategy.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/type.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/with_filters.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/with_filters_arguments.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/with_pre_escape_filters.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/autoescape/with_preserves_safety_filters.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/block/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/block/block_unique_name.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/block/special_chars.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/embed/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/embed/error_line.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/embed/multiple.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/embed/nested.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/embed/with_extends.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/filter/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/filter/json_encode.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/filter/multiple.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/filter/nested.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/filter/with_for_tag.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/filter/with_if_tag.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/condition.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/context.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/else.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/inner_variables.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/keys.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/keys_and_values.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/loop_context.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/loop_context_local.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/loop_not_defined.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/loop_not_defined_cond.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/nested_else.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/objects.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/objects_countable.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/recursive.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/for/values.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/from.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/if/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/if/expression.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/include/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/include/expression.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/include/ignore_missing.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/include/missing.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/include/missing_nested.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/include/only.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/include/template_instance.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/include/templates_as_array.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/include/with_variables.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/conditional.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/dynamic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/empty.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/extends_as_array.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/multiple.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/nested_blocks.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/nested_blocks_parent_only.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/nested_inheritance.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/parent.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_change.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_in_a_block.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_isolation.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_nested.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_without_extends.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/parent_without_extends_but_traits.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/template_instance.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/inheritance/use.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/macro/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/macro/endmacro_name.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/macro/external.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/macro/from.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/macro/global.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/macro/self_import.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/macro/special_chars.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/raw/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/raw/mixed_usage_with_raw.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/raw/whitespace_control.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/sandbox/not_valid1.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/sandbox/not_valid2.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/sandbox/simple.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/set/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/set/capture-empty.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/set/capture.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/set/expression.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/spaceless/simple.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/special_chars.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/trim_block.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/use/aliases.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/use/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/use/deep.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/use/deep_empty.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/use/multiple.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/use/multiple_aliases.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/verbatim/basic.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/verbatim/mixed_usage_with_raw.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tags/verbatim/whitespace_control.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tests/array.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tests/constant.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tests/defined.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tests/empty.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tests/even.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tests/in.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tests/in_with_objects.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tests/iterable.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/tests/odd.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/bookbut.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/homebut.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/infobut.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/reviewbut.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Movieapp/fragment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Movieapp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Movieapp/manifest.appcache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Movieapp/movies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Movieapp/video_input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/.scrutinizer.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/PHPMailerAutoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/class.phpmailer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/class.pop3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/class.smtp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/docs/Callback_function_notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/docs/DomainKeys_notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/docs/Note_for_SMTP_debugging.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/docs/extending.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/docs/faq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/docs/generatedocs.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/docs/pop3_article.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/LGPLv3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/code_generator.phps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/contents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/exceptions.phps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/gmail.phps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/mail.phps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/mailing_list.phps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/pop_before_smtp.phps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/scripts/XRegExp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/scripts/shAutoloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/scripts/shBrushPhp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/scripts/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/scripts/shLegacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/sendmail.phps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/smtp.phps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/smtp_no_auth.phps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shCore.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shCoreDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shCoreDjango.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shCoreEclipse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shCoreEmacs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shCoreFadeToGrey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shCoreMDUltra.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shCoreMidnight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shCoreRDark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shThemeAppleScript.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shThemeDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shThemeDjango.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shThemeEclipse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shThemeEmacs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shThemeFadeToGrey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shThemeMDUltra.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shThemeMidnight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shThemeRDark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/examples/styles/shThemeVisualStudio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/extras/EasyPeasyICS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/extras/class.html2text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/extras/htmlfilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/extras/ntlm_sasl_client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-ar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-be.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-br.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-ca.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-ch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-cz.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-de.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-dk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-el.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-eo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-es.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-et.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-fa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-fi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-fo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-fr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-gl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-he.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-hr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-hu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-it.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-ja.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-ka.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-lt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-lv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-nl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-no.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-pl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-pt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-ro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-ru.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-se.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-sk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-sr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-tr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-uk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-vi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-zh.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/language/phpmailer.lang-zh_cn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/test/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/test/fakepopserver.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/test/fakesendmail.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/test/phpmailerLangTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/test/phpmailerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/test/runfakepopserver.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/test/test_callback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/test/testbootstrap-dist.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PHPMailer/travis.phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/AirLineTransaction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/BillToAddress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/CardInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/CustomerDetails.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/MPIData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/MerchanDise.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/Merchant.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/PGReserveData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/PGResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/PGSearchResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/PostLibPHP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/SessionDetail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sfa/ShipToAddress.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/chat_emp_stat_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/clear_deployments.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/clear_xml_api_cache.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/create_static_sh_from_loc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/cron_update_inventory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/data_cleanup_crons/delete_old_data.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/fetchAllLocationIds.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/insert_data_for_es.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/payment_remainder_notification_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/send_ci_mailer_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/sms_scheduler_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/test_phantom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/universal_search_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/updateEnquiryForBlankCitrusResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/updateEnquiryForCitrus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cron/update_static_hotel_cron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../photo-gallery/showPic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../prod/nginx/conf.d/default.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../prod/nginx/nginx.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../scripts/hotel/picture/hotel_picture_resizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../security/RecaptchaWrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../seo/breadcrumb_path_const.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../seo/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../seo/show_static_locid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../session_management/affiliate_session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../session_management/employee_session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../session_management/hotel_session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../session_management/partner_session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../session_management/user_session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../session_management/wire_employee_login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/api/status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/cron/supply_app_usage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/dashboard/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/dashboard/status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/dashboard/updates.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/error_response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/helper/array_helper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/hotel_detail_response_dao.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/hotel_details.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/hotel_mobile_authentication.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/hotel_update_request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/inventory_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/login_mobile_verification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/mobile_number_format.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/inventory_summary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/supply_notification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/templates/inventory_details.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/README.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/advanced.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/advanced_legacy.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/api.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/coding_standards.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/deprecated.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/abs.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/batch.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/capitalize.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/convert_encoding.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/date.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/date_modify.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/default.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/escape.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/first.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/format.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/join.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/json_encode.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/keys.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/last.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/length.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/lower.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/merge.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/nl2br.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/number_format.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/raw.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/replace.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/reverse.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/round.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/slice.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/sort.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/split.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/striptags.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/title.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/trim.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/upper.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/filters/url_encode.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/attribute.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/block.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/constant.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/cycle.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/date.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/dump.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/include.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/max.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/min.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/parent.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/random.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/range.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/source.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/functions/template_from_string.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/installation.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/internals.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/intro.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/recipes.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/autoescape.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/block.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/do.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/embed.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/extends.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/filter.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/flush.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/for.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/from.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/if.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/import.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/include.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/macro.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/sandbox.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/set.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/spaceless.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/use.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tags/verbatim.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/templates.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tests/constant.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tests/defined.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tests/divisibleby.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tests/empty.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tests/even.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tests/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tests/iterable.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tests/null.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tests/odd.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/doc/tests/sameas.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/ext/twig/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/ext/twig/php_twig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/ext/twig/twig.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Autoloader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Compiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/CompilerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Environment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Error/Loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Error/Runtime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Error/Syntax.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/ExistsLoaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/ExpressionParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Extension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Extension/Core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Extension/Debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Extension/Escaper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Extension/Optimizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Extension/Sandbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Extension/Staging.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Extension/StringLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/ExtensionInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Filter/Function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Filter/Method.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Filter/Node.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/FilterCallableInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/FilterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Function/Function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Function/Method.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Function/Node.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/FunctionCallableInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/FunctionInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Lexer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/LexerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Loader/Array.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Loader/Chain.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Loader/Filesystem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Loader/String.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/LoaderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Markup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/AutoEscape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/BlockReference.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Body.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Do.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Embed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Array.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/AssignName.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/And.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/BitwiseAnd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/BitwiseOr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/BitwiseXor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Concat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Div.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/EndsWith.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Equal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/FloorDiv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Greater.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/GreaterEqual.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/In.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Less.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/LessEqual.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Matches.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Mod.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Mul.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/NotEqual.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/NotIn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Or.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Power.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Range.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/StartsWith.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Binary/Sub.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/BlockReference.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Call.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Conditional.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Constant.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/ExtensionReference.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Filter/Default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/GetAttr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/MethodCall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Name.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Parent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/TempName.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Test/Constant.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Test/Defined.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Test/Divisibleby.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Test/Even.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Test/Null.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Test/Odd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Test/Sameas.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Unary.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Unary/Neg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Unary/Not.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Expression/Unary/Pos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Flush.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/For.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/ForLoop.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/If.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Macro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Module.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Print.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Sandbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/SandboxedModule.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/SandboxedPrint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/SetTemp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Spaceless.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Node/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/NodeInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/NodeOutputInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/NodeTraverser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/NodeVisitor/Escaper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/NodeVisitor/Optimizer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/NodeVisitor/SafeAnalysis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/NodeVisitor/Sandbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/NodeVisitorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/ParserInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Sandbox/SecurityError.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Sandbox/SecurityPolicy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Sandbox/SecurityPolicyInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/SimpleFilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/SimpleFunction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/SimpleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TemplateInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Test/Function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Test/IntegrationTestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Test/Method.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Test/Node.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Test/NodeTestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TestCallableInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TestInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/Token.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/AutoEscape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Do.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Embed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Extends.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Filter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Flush.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/For.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/From.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/If.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Macro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Sandbox.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Set.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Spaceless.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParser/Use.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParserBroker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParserBrokerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenParserInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/lib/Twig/TokenStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/AutoloaderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/CompilerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/EnvironmentTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/ErrorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/ExpressionParserTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Extension/CoreTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Extension/SandboxTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/FileCachingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/errors/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/errors/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Fixtures/filters/batch_float.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/IntegrationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/LexerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/ArrayTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/ChainTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/FilesystemTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/Fixtures/named/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/Fixtures/named_bis/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/Fixtures/named_final/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/Fixtures/named_ter/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/Fixtures/normal/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/Fixtures/normal_bis/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/Fixtures/normal_final/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/Fixtures/normal_ter/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/Fixtures/themes/theme1/blocks.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Loader/Fixtures/themes/theme2/blocks.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/NativeExtensionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/AutoEscapeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/BlockReferenceTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/BlockTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/DoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/ArrayTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/AssignNameTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Binary/AddTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Binary/AndTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Binary/ConcatTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Binary/DivTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Binary/FloorDivTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Binary/ModTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Binary/MulTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Binary/OrTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Binary/SubTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/CallTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/ConditionalTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/ConstantTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/FilterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/FunctionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/GetAttrTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/NameTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/PHP53/FilterInclude.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/PHP53/FunctionInclude.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/PHP53/TestInclude.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/ParentTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/TestTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Unary/NegTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Unary/NotTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/Expression/Unary/PosTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/ForTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/IfTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/ImportTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/IncludeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/MacroTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/ModuleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/PrintTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/SandboxTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/SandboxedModuleTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/SandboxedPrintTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/SetTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/SpacelessTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/Node/TextTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/NodeVisitor/OptimizerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/ParserTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/TemplateTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/TokenStreamTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/Twig/Tests/escapingTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/notifications/twig/test/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/response_code.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/room_details.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/sms_service.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/supply_app_log.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../supply-app/update_hotel_inventory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../unique_ids/uuid_generator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/checkuser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/frgtpass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/login.save.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/myaccount.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/mybook.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/myinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/uclogout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../user/user_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../yahoo_authkey_5a0d2da3513ee829.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../debug_node.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../deploy.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../dest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../dump.rdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/accounting.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/booking/order_details.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/cookie.helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/endpoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/eps/eps_user_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/eps/tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/hotel/amenity_labels.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/hotel/hotel_detail_operations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/locations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/logger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/payment/urls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/urls/domain.name.parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/urls/marketing.url.parameters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/urls/search_url_parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/urls/static.url.parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/util/date_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/util/es_client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/util/money_format.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/util/server-handlebar-helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../lib/util/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mysql-pool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../newrelic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/fonts/Linearicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/fonts/stayzilla-web-app.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/fonts/stayzilla-web-app.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/fonts/stayzilla-web-app.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/fonts/stayzilla-web-app.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/fonts/streamline-24px.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/fonts/streamline-24px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/fonts/streamline-24px.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/fonts/streamline-24px.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/30PctDiscountBanner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/Hotels with line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/Hotels.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/India.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/ZeroCancelationFee-Banner_new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/aboutus_background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/aboutus_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/background-pattern-1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/below_999_home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/cancel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/cancellation.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/chat-status-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/check_in_pass_icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/choose-date.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/choose-your-guest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/close-icon-black.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/concierge.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/concierge_landing_page_background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/concierge_landing_page_icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/concierge_sec_background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/contactus_background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/cross.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/cross_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/cvv_no_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/discount_banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/download_on_iTunes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/dropDown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/edit_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/email-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/facebook_icon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/feedback.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/filter_icons_sprite.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/google-play-store.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/google.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/google_play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/home graphic central portion.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/homepage-images-sprite.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/homestays/homestay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/homestays/house-boat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/homestays/interior-house.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/homestays/jibin-george.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/homestays/sheetal-john.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/homestays/sumesh-shankar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/hotel2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/hotel_default.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/hotel_line_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/hotel_line_img.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/icons_sprite.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/instagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/ios-play-store.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/list_1999.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/list_2999.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/list_999.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/list_your_property_background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/loader_small.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/loading.GIF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/login_facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/maps_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/minus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/monsoonoffer-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/no-image.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/nostays.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/notshortlisted.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/orders/Checkbox_Selected.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/orders/Concierge-Blue-Black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/orders/Rectangle 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/orders/hotel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/orders/secure_lock_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/padmasini_new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/pause.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/payments.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/personalize.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/personalizeIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/phone_icon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/pinIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/pinterest.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/rectangle_for_discount_sec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/rupal_new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/sachit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/secure_shield_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/select_box_arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/shortlisted.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/small_cube_loader.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/small_loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/stayzilla-google.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/stayzilla-logo-new.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/stayzilla-logo-new2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/stayzilla-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/stayzilla-logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/stop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/tick-pink.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/transport_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/vedanarayanan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/visa_master_card_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/whatsapp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/yogi_new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/your-house-your-rules.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/images/youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/chat_view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/concierge/audio_player.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/concierge/concierge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/concierge/concierge_landing_page.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/concierge/concierge_states_data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/concierge/feedback_form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/concierge/huhyb_form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/contact_us.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/employee/booking.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/eps/eps_results.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/eps/get_options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/facebook_login.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/header_footer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/Hotels.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/animated_icons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/authentication_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/auto_complete.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/checkbox_wrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/cookie_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/date_picker_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/event_binder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/filter/distance_filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/filter/filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/filter/filter_csf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/filter/filter_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/filter/filter_labels.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/filter/price_filter_slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/filter/room_type_filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/filter/similar_hotel_filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/force_auto_complete.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/form_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/form_validator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/galleria_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/gallery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/handlebar_helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/history_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/hooks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/hot_city_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/link_mothersip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/pagination/handlebars_paginate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/pg_checkout/booking.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/pg_checkout/checkout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/pop_up.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/radionbutton_wrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/search_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/shortlist/shortList_auth_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/shortlist/shortlist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/shortlist/shortlistModel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/shortlist/shortlist_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/slideshow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/sort.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/string_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/helpers/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/home.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/homestays.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/list_property.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/model/cart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/model/hooks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/model/hotel_model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/model/hotel_url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/model/locality_update_model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/model/search_model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/model/similar_hotel_model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/model/user.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/cart_presenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/categories.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/hotel_presenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/loader_presenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/orders.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/pagination_presenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/payment/confirm_booking.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/payment/gateways/axis_bank_payment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/payment/gateways/ccavenue_payment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/payment/gateways/citrus_bank_payment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/payment/gateways/citrus_card_payment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/payment/hooks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/payment/option_toggles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/payment/payment_initiation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/payment/payments.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/payment/user_input_manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/payment/view_model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/renderSearchResult.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/sameday_booking_alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/search/all_hotels_loaded_handler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/search/hotel_page_loader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/search_hash_handler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/share_hotel_presenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/similar_hotel_elements.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/similar_hotels_presenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/static_page_presenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/user/forgot_password.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/presenter/user/signup_presenter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/tracker/filter_tracker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/tracker/payment_details_tracker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/tracker/search_details_tracker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/tracker/sort_tracker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/url_constructor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/user/city_autocomplete.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/user/concierge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/user/reset_password.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/es5-shim-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/galleria/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/galleria/galleria-1.4.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/galleria/galleria-1.4.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/galleria/themes/classic/classic-demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/galleria/themes/classic/classic-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/galleria/themes/classic/classic-map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/galleria/themes/classic/galleria.classic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/galleria/themes/classic/galleria.classic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/galleria/themes/classic/galleria.classic.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/galleria/themes/classic/icons_sprite.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/gsap/CSSPlugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/gsap/EasePack.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/gsap/TweenLite.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/handlebars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/jquery.history.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/marketing/cj_affiliate_script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/marketing/cj_conversion_script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/marketing/vizury_tag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/moment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/nouislider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/javascripts/vendor/pikaday.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/stylesheets/vendor/jquery-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/stylesheets/vendor/nouislider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../public/stylesheets/vendor/pikaday.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../redis/fetch-hotel-details-cron.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../redis/redis.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../service/checkout.service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../service/hotel.search.service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../service/search_response_wrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../service/shortlist.service.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../src" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
+    </list>
+    <ignored path="react_pract.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="react_pract" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="details.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/details.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3006993">
+              <caret line="114" column="28" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="101" column="38" selection-start-line="101" selection-start-column="38" selection-end-line="101" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="113" selection-start-line="6" selection-start-column="113" selection-end-line="6" selection-end-column="113" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bundle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/bundle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/List.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="XSLT Stylesheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/pages/sample.js" />
+        <option value="$PROJECT_DIR$/src/pages/app.js" />
+        <option value="$PROJECT_DIR$/react_pract/src/pages/sample.js" />
+        <option value="$PROJECT_DIR$/react_pract/src/index.js" />
+        <option value="$PROJECT_DIR$/react_pract/package.json" />
+        <option value="$PROJECT_DIR$/react_pract/src/pages/List.js" />
+        <option value="$PROJECT_DIR$/react_pract/__tests__/list-tests.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/css/main.css.xsl" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/dist/main.css" />
+        <option value="$PROJECT_DIR$/src/pages/details.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_pract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_pract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reactUpdate.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_pract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reactUpdate.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_pract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reactUpdate.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_pract" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reactUpdate.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f4e0c6c-2180-4d98-9e92-f793acae182f" name="Default" comment="" />
+      <created>1459848950953</created>
+      <option name="number" value="Default" />
+      <updated>1459848950953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="144" column="2" selection-start-line="144" selection-start-column="2" selection-end-line="144" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="113" selection-start-line="6" selection-start-column="113" selection-end-line="6" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="101" column="38" selection-start-line="101" selection-start-column="38" selection-end-line="101" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/details.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3006993">
+          <caret line="114" column="28" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
