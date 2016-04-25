@@ -110,22 +110,16 @@ class Detail extends React.Component {
 
         return (<div className="btn-area">
              <h2 className="title-react">REACT UPDATES</h2>
-               <section className="border">
+               <div className="border">
             <button onClick={this.selectMode.bind(this)} data-mode="commits">
-                Show Commits
+               Commits
             </button>
-
-
-            <button onClick={this.selectMode.bind(this)} data-mode="forks">
-                Show Forks
+            <button onClick={this.selectMode.bind(this)} data-mode="forks">Forks
             </button>
-
-
             <button className="pull-area" onClick={this.selectMode.bind(this)} data-mode="pulls">
-                Show Pulls
+             Pulls
             </button>
-
-                </section>
+                </div>
             {content}
         </div>);
     }

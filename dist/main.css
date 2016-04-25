@@ -71,49 +71,44 @@ h5 {
     padding:10px;
 }
 
-    section.border {
-       margin-left: 35%;
-    }
-
-    section.border button {
+ div.border button {
         color: #054F3D;
         background: rgba(0, 0, 0, 0);
         border: solid 5px #5fb7b3;
         margin: 10px;
-        padding: 20px;
-        font-size: 15px;
-        width:100px;
-
+        padding: 10px;
+        font-size: 12px;
+         width:80px;
+        float:none;
     }
 
-    section.border button:hover,
-    section.border button.hover {
+  div.border button:hover,
+    div.border button.hover {
         border-color: #55ccaf;
         color: #5fb7b3;
     }
 
-    section.border button:active,
-    section.border button.active {
+    div.border button:active,
+    div.border button.active {
         border-color: #5fb7b3;
         color: #5fb7b3;
         box-shadow: 0 1px 30px rgba(0, 0, 0, .4);
     }
-
-    @media screen and(min-width:360px ) {
-        section.border .pull-area {
-            margin-left:20%;
-        }
-        section.border {
-            margin-left: 15%;
-        }
-
-
-    }
-
-
 .title-react{
     text-align: center;
 }
+.border{
+    float:none;
+    margin:0 auto;
+    margin-left:5%;
+}
 
+@media screen and  (min-width:500px){
+    .border{
+        float:none;
+        margin:0 auto;
+        margin-left:40%;
+    }
 
+}
 
