@@ -28,7 +28,7 @@ a:hover .thecard {
     border-radius: 4px;
     transition: 400ms ease;
     margin:5% auto;
-   overflow:hidden;
+    white-space:normal;
 }
 
 .card-img {
