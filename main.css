@@ -70,7 +70,10 @@ h5 {
     margin:0;
     padding:10px;
 }
-
+.border {
+    width:100%;
+    text-align: center;
+}
  div.border button {
         color: #054F3D;
         background: rgba(0, 0, 0, 0);
@@ -78,8 +81,7 @@ h5 {
         margin: 10px;
         padding: 10px;
         font-size: 12px;
-         width:80px;
-        float:none;
+        width:100px;
     }
 
   div.border button:hover,
@@ -97,18 +99,5 @@ h5 {
 .title-react{
     text-align: center;
 }
-.border{
-    float:none;
-    margin:0 auto;
-    margin-left:5%;
-}
 
-@media screen and  (min-width:500px){
-    .border{
-        float:none;
-        margin:0 auto;
-        margin-left:40%;
-    }
-
-}
 
